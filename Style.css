@@ -1,0 +1,44 @@
+
+body{
+    background-color: rgb(145, 118, 170);
+}
+
+
+
+
+#knupper{
+    background-color: rgb(133, 133, 168);
+    text-align: center;
+    flex-direction: column;
+    
+}
+    
+  #tall{
+
+    background-color: rgb(175, 85, 187);
+    text-align: center;
+    justify-content: center;
+    border-style: dotted;
+    border-color:blanchedalmond;
+    border-width: 5px;
+    border-radius: 50px;
+    
+
+    
+    
+}  
+
+
+
+.overskrift{
+    color: blanchedalmond;
+
+}
+
+
+
+
+
+
+
+
